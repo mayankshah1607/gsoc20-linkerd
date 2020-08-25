@@ -22,14 +22,14 @@ This project proposes a new test suite that shall be used for conformance valida
 
 ## Pull Requests
 
-#### Repository: https://github.com/linkerd/linkerd2
+#### Repository: [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
 
-- https://github.com/linkerd/linkerd2/pull/4532 - Add new helper to package `testutil`
-- https://github.com/linkerd/linkerd2/pull/4591 - Update function signature of `testutil.NewGenericTestHelper`
-- https://github.com/linkerd/linkerd2/pull/4644 - Refactor helper functions from `inject` integration tests
-- https://github.com/linkerd/linkerd2/pull/4681 - Refactor helper functions from `install` integration tests
-- https://github.com/linkerd/linkerd2/pull/4800 - Refactor helper functions from `tap` integration tests
-- https://github.com/linkerd/linkerd2/pull/4752 - Refactor and make `checkOutput` public
+- [linkerd/linkerd2#4532](https://github.com/linkerd/linkerd2/pull/4532) - Add new helper to package `testutil`
+- [linkerd/linkerd2#4591](https://github.com/linkerd/linkerd2/pull/4591) - Update function signature of `testutil.NewGenericTestHelper`
+- [linkerd/linkerd2#4644](https://github.com/linkerd/linkerd2/pull/4644) - Refactor helper functions from `inject` integration tests
+- [linkerd/linkerd2#4681](https://github.com/linkerd/linkerd2/pull/4681) - Refactor helper functions from `install` integration tests
+- [linkerd/linkerd2#4800](https://github.com/linkerd/linkerd2/pull/4800) - Refactor helper functions from `tap` integration tests
+- [linkerd/linkerd2#4752](https://github.com/linkerd/linkerd2/pull/4752) - Refactor and make `checkOutput` public
 
 ## Weekly Updates
 
