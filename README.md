@@ -20,6 +20,8 @@ This project proposes a new test suite that shall be used for conformance valida
 
 ## Issues
 
+[WIP]
+
 ## Pull Requests
 
 Total PRs made: 17
@@ -50,3 +52,4 @@ Total PRs made: 17
 
 ## Weekly Updates
 
+[WIP]
