@@ -20,7 +20,26 @@ This project proposes a new test suite that shall be used for conformance valida
 
 ## Issues
 
-[WIP]
+Total issues opened: 13
+
+#### Repository: [linkerd/linkerd2-conformance](https://github.com/linkerd/linkerd2-conformance)
+
+- [linkerd/linkerd2-conformance#2](https://github.com/linkerd/linkerd2-conformance/issues/2) - Add spec for control plane installation and its lifecycle
+- [linkerd/linkerd2-conformance#3](https://github.com/linkerd/linkerd2-conformance/issues/3) - Add support to read and parse test configuration from a YAML file
+- [linkerd/linkerd2-conformance#5](https://github.com/linkerd/linkerd2-conformance/issues/5) - Add tests for proxy injection
+- [linkerd/linkerd2-conformance#6](https://github.com/linkerd/linkerd2-conformance/issues/6) - Add support for using add-ons for control plane installation tests
+- [linkerd/linkerd2-conformance#7](https://github.com/linkerd/linkerd2-conformance/issues/7) - Add new spec for ingress tests
+- [linkerd/linkerd2-conformance#8](https://github.com/linkerd/linkerd2-conformance/issues/8) - Consider using `gotestsum`
+- [linkerd/linkerd2-conformance#13](https://github.com/linkerd/linkerd2-conformance/issues/13) - Release plan for linkerd2-conformance
+- [linkerd/linkerd2-conformance#14](https://github.com/linkerd/linkerd2-conformance/issues/14) - Restructuring docs
+- [linkerd/linkerd2-conformance#15](https://github.com/linkerd/linkerd2-conformance/issues/15) - Clean-up and refactor Gomega assertions
+- [linkerd/linkerd2-conformance#24](https://github.com/linkerd/linkerd2-conformance/issues/24) - Add new spec for testing retries and timeouts
+
+#### Repository: [linkerd/linkerd2](https://github.com/linkerd/linkerd2)
+
+- [linkerd/linkerd2#4497](https://github.com/linkerd/linkerd2/issues/4497) - `pkg.go.dev` discovers an older version of `linkerd2` module
+- [linkerd/linkerd2#4530](https://github.com/linkerd/linkerd2/issues/4530) - Add new helper method in `testutil` package
+- [linkerd/linkerd2#4643](https://github.com/linkerd/linkerd2/issues/4643) - Refactor existing helpers from `inject` integration tests
 
 ## Pull Requests
 
