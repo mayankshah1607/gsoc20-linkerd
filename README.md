@@ -72,3 +72,7 @@ Total PRs made: 17
 ## Weekly Updates
 
 [WIP]
+
+## Conclusion
+
+[WIP]
