@@ -69,9 +69,37 @@ Total PRs made: 17
 - [linkerd/linkerd2-conformance#22](https://github.com/linkerd/linkerd2-conformance/pull/22) - Add tests for `linkerd edges` command
 - [linkerd/linkerd2-conformance#23](https://github.com/linkerd/linkerd2-conformance/pull/23) - Omit flaky output validation for `linkerd inject --manual` tests
 
+## Miscellaneous contributions to Linkerd
+
+Throughout the GSoC period, I made small contributions to the community which were outside the scope of my project.
+
+#### PRs merged
+
+- [linkerd/linkerd2#4346](https://github.com/linkerd/linkerd2/pull/4346)
+- [linkerd/linkerd2#4508](https://github.com/linkerd/linkerd2/pull/4508)
+
+#### PRs reviewed:
+
+- [linkerd/linkerd2#4757](https://github.com/linkerd/linkerd2/pull/4757)
+- [linkerd/linkerd2#4368](https://github.com/linkerd/linkerd2/pull/4368)
+
+
 ## Weekly Updates
 
-[WIP]
+- [Community Bonding Period]()
+- [Week 1, June 1st - June 8th]()
+- [Week 2, June 8th - June 15th]()
+- [Week 3, June 15th - June 22nd]()
+- [Week 4, June 22nd - June 29th]()
+- [Week 5, July 3rd - July 13th]()
+- [Week 7, July 13th - July 20th]()
+- [Week 8, July 20th - July 27th]()
+- [Week 9, July 31st - August 10th]()
+
+- [Week 10, August 10th - August 17th]()
+- [Week 11, August 17th - August 24th]()
+
+
 
 ## Conclusion
 
