@@ -104,4 +104,9 @@ Throughout the GSoC period, I made small contributions to the community which we
 
 ## Conclusion
 
-[WIP]
+My journey with Linkerd started back in October 2019, prior to GSoC, when I was just getting started with Kubernetes. By making small contributions
+such as minor bug fixes and addition of new features to the CLI, I have come a long way in learning about service meshes, to be able to work with
+the Linkerd community as a GSoC student. From drafting a project proposal, to getting PRs merged, I have always been able to learn something new from every interaction I have
+had with the Linkerd community. On the technical side of things I have learnt great coding ethics and practices, developed the ability to read code, understand new paradigms in software development, and most importantly learnt a great deal about service meshes and why must one use it. On the non-technical side, I have learnt how to express ideas and communicate effectively with a team. 
+
+GSoC and Linkerd have helped me grow as a software engineer, and the journey has been absolutely delightful for me. Special thanks to my mentors [Tarun](https://github.com/Pothulapati) and [Ivan](https://github.com/ihcsim) who have been very supportive of my ideas and provided vaulable feedback. I'm very excited to see how Linkerd users make effective use of my project, and I also hope to be able to continue making meaningful contributions to the Linkerd community.
