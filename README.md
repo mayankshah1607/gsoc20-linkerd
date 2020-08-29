@@ -89,14 +89,23 @@ Throughout the GSoC period, I made small contributions to the community which we
 ## Weekly Updates
 
 - [Community Bonding Period](https://github.com/mayankshah1607/gsoc20-linkerd/blob/master/weekly/Community-Bonding.md)
+
+### Coding Period - June
+
 - [Week 1, June 1st - June 8th](https://github.com/mayankshah1607/gsoc20-linkerd/blob/master/weekly/week1.md)
 - [Week 2, June 8th - June 15th](https://github.com/mayankshah1607/gsoc20-linkerd/blob/master/weekly/week2.md)
 - [Week 3, June 15th - June 22nd](https://github.com/mayankshah1607/gsoc20-linkerd/blob/master/weekly/week3.md)
 - [Week 4, June 22nd - June 29th](https://github.com/mayankshah1607/gsoc20-linkerd/blob/master/weekly/week4.md)
+
+### Coding Period - July
+
 - [Week 5, July 3rd - July 13th](https://github.com/mayankshah1607/gsoc20-linkerd/blob/master/weekly/week5.md)
 - [Week 6, July 13th - July 20th](https://github.com/mayankshah1607/gsoc20-linkerd/blob/master/weekly/week6.md)
 - [Week 7, July 20th - July 27th](https://github.com/mayankshah1607/gsoc20-linkerd/blob/master/weekly/week7.md)
 - [Week 8, July 31st - August 10th](https://github.com/mayankshah1607/gsoc20-linkerd/blob/master/weekly/week8.md)
+
+### Coding Period - August
+
 - [Week 9, August 10th - August 17th](https://github.com/mayankshah1607/gsoc20-linkerd/blob/master/weekly/week9.md)
 - [Week 10, August 17th - August 24th](https://github.com/mayankshah1607/gsoc20-linkerd/blob/master/weekly/week10.md)
 
