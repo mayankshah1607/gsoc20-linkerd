@@ -45,7 +45,7 @@ Total issues opened: 13
 
 ## Pull Requests
 
-Total PRs made: 17
+Total PRs made: 18
 
 > Note: A lot of the PRs hold really big changes (some of which took weeks to review), hence the relatively low number of PRs.
 
