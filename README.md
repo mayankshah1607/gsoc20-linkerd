@@ -70,6 +70,7 @@ Total PRs made: 17
 - [linkerd/linkerd2-conformance#21](https://github.com/linkerd/linkerd2-conformance/pull/21) - Change CI linter timeout to `30m`
 - [linkerd/linkerd2-conformance#22](https://github.com/linkerd/linkerd2-conformance/pull/22) - Add tests for `linkerd edges` command
 - [linkerd/linkerd2-conformance#23](https://github.com/linkerd/linkerd2-conformance/pull/23) - Omit flaky output validation for `linkerd inject --manual` tests
+- [linkerd/linkerd2-conformance#25](https://github.com/linkerd/linkerd2-conformance/pull/25) - Add tests for testing ServiceProfiles and Retries
 
 ## Miscellaneous contributions to Linkerd
 
