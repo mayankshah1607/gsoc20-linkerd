@@ -45,7 +45,7 @@ Total issues opened: 13
 
 ## Pull Requests
 
-Total PRs made: 18
+Total PRs made: 19
 
 > Note: A lot of the PRs hold really big changes (some of which took weeks to review), hence the relatively low number of PRs.
 
@@ -71,6 +71,7 @@ Total PRs made: 18
 - [linkerd/linkerd2-conformance#22](https://github.com/linkerd/linkerd2-conformance/pull/22) - Add tests for `linkerd edges` command
 - [linkerd/linkerd2-conformance#23](https://github.com/linkerd/linkerd2-conformance/pull/23) - Omit flaky output validation for `linkerd inject --manual` tests
 - [linkerd/linkerd2-conformance#25](https://github.com/linkerd/linkerd2-conformance/pull/25) - Add tests for testing ServiceProfiles and Retries
+- [linkerd/linkerd2-conformance#26](https://github.com/linkerd/linkerd2-conformance/pull/26) - Clean up code for lifecycle and inject tests
 
 ## Miscellaneous contributions to Linkerd
 
