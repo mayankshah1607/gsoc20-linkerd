@@ -20,6 +20,10 @@ Linkerd has an extensive check suite that validates a cluster is ready to instal
 
 This project proposes a new test suite that shall be used for conformance validation. The new test suite shall be used to validate non-trivial network communication (HTTP, gRPC, websocket) among stateless and stateful workloads in the Linkerd data plane. This shall be done by carrying out extensive e2e tests of Linkerd features using a sample distributed application (data plane).
 
+# Blog posts
+
+- [GSoC '20 with Linkerd](https://medium.com/@mayankshah1607/gsoc-20-with-linkerd-2d821328ab1a)
+
 ## Issues
 
 Total issues opened: 13
