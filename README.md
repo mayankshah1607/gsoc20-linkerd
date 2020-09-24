@@ -24,6 +24,10 @@ This project proposes a new test suite that shall be used for conformance valida
 
 - [GSoC '20 with Linkerd](https://medium.com/@mayankshah1607/gsoc-20-with-linkerd-2d821328ab1a)
 
+# Talks and presentations 
+
+- [Linkerd community meetup (09-23-2020)](https://youtu.be/3P7uEPv-qcc?t=1640)
+
 ## Issues
 
 Total issues opened: 13
